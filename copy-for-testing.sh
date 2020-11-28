@@ -1,0 +1,1 @@
+cp hematite.zsh-theme ~/.oh-my-zsh/themes
