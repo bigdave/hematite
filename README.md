@@ -10,6 +10,7 @@ Hematite is a theme for Zsh. It is based upon the following tenets:
 | username | Know which user I am, for when I'm a dude playing a dude pretending to be another dude. So I don't do something crazy. | less prominent | O(1)
 | current directory | I need to know where I am, and where I was. | prominent | O(1)
 | exit status | I want an obvious indicator if something fails. | Red, the color of errors. | O(1)
+| git info | If I'm on a branch I want to know it. | less prominent | O(n)
 
 ## Installation
 ### oh my zsh
