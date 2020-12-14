@@ -4,6 +4,8 @@ Hematite is a theme for Zsh. It is based upon the following tenets:
 1. *It should be easy to visually search the terminal history* - This is accomplished via discrete and intentional styling, explained as part of this document.
 1. *The theme should not have a noticeable impact on performance* - The run-time performance of the theme is analyzed as part of this document.
 
+![Screenshot](screenshot.png)
+
 ## Elements of the Theme
 | Element | Why Show It? | Style | Performance |
 |---------|--------------|-------|-------------|
